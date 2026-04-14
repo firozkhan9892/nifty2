@@ -1,8 +1,0 @@
-flask
-requests
-yfinance
-pandas
-scikit-learn
-vaderSentiment
-python-dotenv
-xgboost
